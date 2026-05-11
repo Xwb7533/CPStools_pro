@@ -90,20 +90,7 @@ Optional external tools (auto-detected if on `PATH`): **MAFFT** (alignment), **B
 
 Download the installer for your platform from the [Releases](https://github.com/Xwb7533/CPStools_pro/releases) page and run it. No Python environment required.
 
-**From source / CLI**
 
-```bash
-# clone & install
-git clone https://github.com/Xwb7533/CPStools_pro.git
-cd CPStools_pro
-pip install -e .
-
-# launch GUI
-python run_gui.py
-
-# or use CLI
-cpstools --help
-```
 
 ---
 
